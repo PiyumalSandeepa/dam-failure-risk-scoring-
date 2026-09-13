@@ -1,0 +1,14 @@
+# Python bytecode & cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Dataset & Trained Large Models (Optional: Large model files commit කිරීම වළක්වයි)
+*.joblib
